@@ -1,3 +1,3 @@
-# NicholasMoran
+# Nicholas Moran
 
-this is just for fun
+This is my github repository for my resume and other connected projects
